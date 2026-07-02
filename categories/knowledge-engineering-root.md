@@ -2,7 +2,7 @@
 categories: []
 created: '2026-07-02T06:59:59.255666+00:00'
 id: knowledge-engineering-root
-modified: '2026-07-02T07:06:55.544260+00:00'
+modified: '2026-07-02T07:16:16.603630+00:00'
 tags:
 - knowledge-engineering
 - root
@@ -16,7 +16,7 @@ Welcome to the Knowledge Engineering Root.
 
 Knowledge Engineering is the discipline of bridging the gap between human expertise and machine systems. It encompasses the methodologies required to extract tacit human knowledge, structure it formally, and implement it as scalable, machine-readable software architecture.
 
-Because bridging this gap involves solving problems across multiple layers of abstraction, this knowledge base relies on two distinct but complementary frameworks: **KADS** and **Domain-Driven Design (DDD)**.
+Because bridging this gap involves solving problems across multiple layers of abstraction, this knowledge base relies on two distinct but complementary frameworks: **Knowledge Acquisition and Documentation Structuring (KADS)** and **Domain-Driven Design (DDD)**.
 
 While both focus heavily on modeling domain knowledge, they solve fundamentally different problems:
 
