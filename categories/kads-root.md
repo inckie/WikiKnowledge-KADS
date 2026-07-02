@@ -1,20 +1,19 @@
 ---
-categories: []
+categories:
+- knowledge-engineering-root
 created: '2026-07-02T05:20:01.975266+00:00'
 id: kads-root
-modified: '2026-07-02T05:33:37.950323+00:00'
+modified: '2026-07-02T07:06:57.642638+00:00'
 tags:
 - ideology
 - kads
-- root
-title: KADS Root Ideology
+- framework
+title: KADS Framework
 type: category
 ---
 
 <!-- human:start -->
-Welcome to the Knowledge Acquisition and Documentation Structuring (KADS) Ideology base. 
-
-This knowledge base provides a foundational, systematic framework for transforming unstructured, tacit human expertise into explicit, verified, and machine-readable data assets. The core architectural principles are universally applicable to any complex, knowledge-intensive domain.
+The Knowledge Acquisition and Documentation Structuring (KADS) framework provides a foundational, systematic methodology for transforming unstructured, tacit human expertise into explicit, verified, and machine-readable data assets. The core architectural principles are universally applicable to any complex, knowledge-intensive domain.
 
 ### The KADS Process Overview
 
@@ -44,10 +43,4 @@ Rules for optimizing componentized documentation for AI search and LLM context e
 
 ### [[governance|Knowledge Governance]]
 Policies for ensuring the knowledge base remains accurate, covering ownership, deprecation, and review lifecycles.
-
-### [[software-engineering-case|Software Engineering Case Study]]
-A case study on applying core KADS principles specifically to software architecture and development environments.
-
-### [[ai-guides|AI Knowledge Engineering Guides]]
-Actionable guides for AI agents to act autonomously as Knowledge Engineers in the KADS methodology.
 <!-- ai:end -->
