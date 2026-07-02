@@ -2,7 +2,7 @@
 categories: []
 created: '2026-07-02T05:20:01.975266+00:00'
 id: kads-root
-modified: '2026-07-02T05:24:06.913628+00:00'
+modified: '2026-07-02T05:33:37.950323+00:00'
 tags:
 - ideology
 - kads
@@ -16,7 +16,17 @@ Welcome to the Knowledge Acquisition and Documentation Structuring (KADS) Ideolo
 
 This knowledge base provides a foundational, systematic framework for transforming unstructured, tacit human expertise into explicit, verified, and machine-readable data assets. The core architectural principles are universally applicable to any complex, knowledge-intensive domain.
 
-The KADS process focuses on systematic knowledge elicitation, rigorous taxonomy design, componentized documentation modeling, and AI integration via RAG.
+### The KADS Process Overview
+
+Solving a knowledge engineering problem using KADS involves a strict, sequential pipeline:
+
+1. **Elicitation**: Start by bounding the scope of the problem. Review existing artifacts to form a hypothesis, then engage Subject Matter Experts (SMEs) using structured interviews or protocol analysis. Extract their implicit mental models via bi-directional querying (discovery followed by validation) and formalize the logic flow.
+2. **Structuring**: Take the chaotic raw data and classify it into three strict typologies: **Declarative** (facts and constraints), **Procedural** (step-by-step workflows), and **Structural** (architectural reasoning). Ensure your new taxonomy obeys mutual exclusivity and semantic consistency.
+3. **Documentation**: Map the structured data into discrete, componentized documents rather than long narratives. Every piece of content must strictly be a **Concept**, a **Task**, or a **Reference**. Treat these documents as code (DaC), maintaining them in version control with peer reviews and linting.
+4. **AI Integration**: Format your componentized documents with semantic Markdown headers, explicit YAML frontmatter, and hardcoded `[[wiki-links]]`. This ensures the knowledge graph is optimized for advanced AI retrieval systems, particularly GraphRAG, allowing AIs to traverse dependencies.
+5. **Governance**: Assign granular ownership to every document. Implement programmatic deprecation policies and tie documentation audits to your engineering release cycles to prevent knowledge decay.
+
+By following this pipeline, knowledge engineers (both human and AI) can capture domain expertise and construct a highly navigable, machine-readable knowledge graph.
 <!-- human:end -->
 
 <!-- ai:start -->

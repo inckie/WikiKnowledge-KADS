@@ -3,7 +3,7 @@ categories:
 - kads-root
 created: '2026-07-02T05:20:24.841434+00:00'
 id: ai-guides
-modified: '2026-07-02T05:24:33.686982+00:00'
+modified: '2026-07-02T05:42:34.817260+00:00'
 tags:
 - ai-guides
 - skills
@@ -21,4 +21,7 @@ These articles translate the KADS ideology into programmatic prompts and step-by
 <!-- ai:start -->
 ### [[ai-knowledge-engineer-role|AI Guide: The Knowledge Engineer Role]]
 Actionable instructions for AI agents on how to execute scope bounding, hypothesis design, and bi-directional querying autonomously when extracting knowledge.
+
+### [[kads-wk-mapping|Mapping KADS to WikiKnowledge]]
+The definitive guide on exactly how to leverage WikiKnowledge's technical features (Frontmatter, Wiki Links, Human/AI blocks) to successfully execute the KADS pipeline.
 <!-- ai:end -->
