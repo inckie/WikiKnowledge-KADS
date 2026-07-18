@@ -3,7 +3,7 @@ categories:
 - kads-root
 created: '2026-07-02T05:20:08.225266+00:00'
 id: documentation
-modified: '2026-07-02T05:24:13.121055+00:00'
+modified: '2026-07-18T06:09:39.669646+00:00'
 tags:
 - documentation
 - content-modeling
@@ -24,4 +24,7 @@ Defines the strict structural formats for componentized documentation: Concept (
 
 ### [[doc-as-code|Documentation-as-Code (DaC) Systems Architecture]]
 Explains how to treat documentation like source code, incorporating authoring in IDEs, Git version control, automated linting, and CI/CD static compilation.
+
+### [[c4-model-architecture|The C4 Model for Software Architecture]]
+Explains the Context, Containers, Components, and Code methodology for creating hierarchical, zoomable architectural diagrams perfectly suited for AI generation.
 <!-- ai:end -->
