@@ -3,7 +3,7 @@ categories:
 - knowledge-engineering-root
 created: '2026-07-02T05:20:24.841434+00:00'
 id: ai-guides
-modified: '2026-07-02T07:06:53.447945+00:00'
+modified: '2026-07-18T07:04:27.316967+00:00'
 tags:
 - ai-guides
 - skills
@@ -27,4 +27,10 @@ The definitive guide on exactly how to leverage WikiKnowledge's technical featur
 
 ### [[ddd-wk-mapping|Mapping DDD to WikiKnowledge]]
 The definitive guide on how to map Domain-Driven Design concepts (Ubiquitous Language, Bounded Contexts, DSM) directly to WikiKnowledge features for scalable domain modeling.
+
+### [[ai-source-code-strategy|AI Guide: Source Code Knowledge Strategy]]
+Teaches AIs the crucial skill of embedding short articles directly in source code to prevent duplication and save context tokens.
+
+### [[ai-development-repercussion-waves|Specifications as Source of Truth & Repercussion Waves]]
+Explains how AI-driven development projects specifications downward via "Repercussion Waves", and why code-level refactoring must remain isolated from the wiki.
 <!-- ai:end -->
