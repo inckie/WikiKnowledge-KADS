@@ -3,7 +3,7 @@ categories:
 - knowledge-engineering-root
 created: '2026-07-02T05:20:01.975266+00:00'
 id: kads-root
-modified: '2026-07-02T07:06:57.642638+00:00'
+modified: '2026-07-18T05:56:54.432720+00:00'
 tags:
 - ideology
 - kads
@@ -29,18 +29,13 @@ By following this pipeline, knowledge engineers (both human and AI) can capture 
 <!-- human:end -->
 
 <!-- ai:start -->
-### [[elicitation|Elicitation Methodologies]]
-Methodologies and protocols for actively extracting knowledge from subject matter experts, addressing the knowledge acquisition bottleneck.
+### Categories
+*   **[[elicitation|Elicitation Methodologies]]**: Methodologies and protocols for actively extracting knowledge from subject matter experts, addressing the knowledge acquisition bottleneck.
+*   **[[structuring|Structuring and Taxonomy]]**: Guidelines for formalizing raw data into Declarative, Procedural, and Structural knowledge networks.
+*   **[[documentation|Componentized Content Modeling]]**: The framework for splitting dense documentation into single-purpose blocks using the Information Triad and treating Documentation as Code.
+*   **[[ai-integration|AI Integration and RAG]]**: Rules for optimizing componentized documentation for AI search and LLM context extraction using chunking paradigms.
+*   **[[governance|Knowledge Governance]]**: Policies for ensuring the knowledge base remains accurate, covering ownership, deprecation, and review lifecycles.
 
-### [[structuring|Structuring and Taxonomy]]
-Guidelines for formalizing raw data into Declarative, Procedural, and Structural knowledge networks.
-
-### [[documentation|Componentized Content Modeling]]
-The framework for splitting dense documentation into single-purpose blocks using the Information Triad and treating Documentation as Code.
-
-### [[ai-integration|AI Integration and RAG]]
-Rules for optimizing componentized documentation for AI search and LLM context extraction using chunking paradigms.
-
-### [[governance|Knowledge Governance]]
-Policies for ensuring the knowledge base remains accurate, covering ownership, deprecation, and review lifecycles.
+### Articles
+*   **[[software-kads-application|Applying KADS to Software Engineering]]**: A practical demonstration of applying elicitation, knowledge typologies, and network bounding specifically to software architecture, debugging, and deployment environments.
 <!-- ai:end -->

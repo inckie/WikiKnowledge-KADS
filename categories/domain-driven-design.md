@@ -3,7 +3,7 @@ categories:
 - knowledge-engineering-root
 created: '2026-07-02T06:13:27.314867+00:00'
 id: domain-driven-design
-modified: '2026-07-02T07:02:56.102835+00:00'
+modified: '2026-07-18T06:02:28.098070+00:00'
 tags:
 - ddd
 - software-engineering
@@ -38,5 +38,5 @@ Explains how to define strict domain "nouns", "verbs", and "adjectives" (explici
 Details how to isolate domain logic into strict boundaries, structuring applications into Top-Level Domain Logic, Implementation, and Foundation layers connected by Event Buses.
 
 ### [[domain-specific-modeling|Domain-Specific Modeling (DSM)]]
-Covers the use of reflection, serialization, and scripting bindings (Lua/JS) to build flexible, generalized foundation blocks that can rapidly adapt to domain changes.
+Explains how to use Software Design Multipliers (like Reflection and Dynamic Proxies) to build flexible, generalized foundation blocks that rapidly adapt to domain changes.
 <!-- ai:end -->

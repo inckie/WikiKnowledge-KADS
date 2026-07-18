@@ -1,9 +1,9 @@
 ---
 categories:
-- software-engineering-case
+- knowledge-engineering-root
 created: '2026-07-18T05:16:48.180082+00:00'
 id: software-design-multipliers
-modified: '2026-07-18T05:38:21.395233+00:00'
+modified: '2026-07-18T05:56:21.791912+00:00'
 tags:
 - software-design
 - multipliers

@@ -1,13 +1,13 @@
 ---
 categories:
-- software-engineering-case
+- kads-root
 created: '2026-07-02T05:21:20.170299+00:00'
 id: software-kads-application
-modified: '2026-07-02T05:21:20.170315+00:00'
+modified: '2026-07-18T06:02:26.024374+00:00'
 tags:
+- kads
 - software-engineering
-- application
-- examples
+- case-study
 title: Applying KADS to Software Engineering
 type: leaf
 ---
