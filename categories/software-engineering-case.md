@@ -3,7 +3,7 @@ categories:
 - knowledge-engineering-root
 created: '2026-07-02T05:20:22.804451+00:00'
 id: software-engineering-case
-modified: '2026-07-02T07:00:05.510999+00:00'
+modified: '2026-07-18T05:17:25.918472+00:00'
 tags:
 - software-engineering
 - case-study
@@ -21,4 +21,7 @@ This category acts as a "major subject" case study, demonstrating the applicatio
 <!-- ai:start -->
 ### [[software-kads-application|Applying Knowledge Engineering to Software]]
 A practical demonstration of applying elicitation, knowledge typologies, and network bounding specifically to software architecture, debugging, and deployment environments.
+
+### [[software-design-multipliers|Software Design Multipliers]]
+A collection of advanced foundational mechanisms in software design (such as ECS, Event Sourcing, and CAS) that provide extreme leverage, making complex architectural problems trivial to solve.
 <!-- ai:end -->
