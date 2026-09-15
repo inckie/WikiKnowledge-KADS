@@ -3,7 +3,7 @@ categories:
 - knowledge-engineering-root
 created: '2026-07-02T05:20:24.841434+00:00'
 id: ai-guides
-modified: '2026-07-18T07:04:27.316967+00:00'
+modified: '2026-09-15T12:10:49.303186+00:00'
 tags:
 - ai-guides
 - skills
@@ -12,13 +12,21 @@ title: AI Knowledge Engineering Guides
 type: category
 ---
 
-<!-- human:start -->
-This category contains specific, actionable guides and skills intended directly for AI agents acting in the capacity of Knowledge Engineers. 
+# AI Knowledge Engineering Guides
 
-These articles translate the overarching Knowledge Engineering frameworks (both KADS and DDD) into programmatic prompts and step-by-step methodologies that an AI can use to elicit, categorize, and document knowledge autonomously using WikiKnowledge features.
+<!-- human:start -->
+This category contains specific, actionable guides and skills intended directly for AI agents acting in the capacity of Knowledge Engineers and Software Developers. 
+
+These articles translate the overarching Knowledge Engineering frameworks (both KADS and DDD) into programmatic prompts and step-by-step methodologies that an AI can use to elicit, categorize, document knowledge, and write minimal, resilient code autonomously.
 <!-- human:end -->
 
+> [!IMPORTANT]
+> **Implementation Mandate**: When translating architectural models or specifications into executable code for any project, AI agents MUST follow [[ai-ponytail-strategy|AI Guide: Ponytail Minimalist Development Strategy]]. Default: full intensity (the ladder enforced, YAGNI, shortest working diff).
+
 <!-- ai:start -->
+### [[ai-ponytail-strategy|AI Guide: Ponytail Minimalist Development Strategy]]
+The mandatory code implementation discipline for AI agents. Enforces the ladder of simplicity (YAGNI, stdlib-first, deletion over addition) when writing code across projects, keeping architectural multipliers lean.
+
 ### [[ai-knowledge-engineer-role|AI Guide: The Knowledge Engineer Role]]
 Actionable instructions for AI agents on how to execute scope bounding, hypothesis design, and bi-directional querying autonomously when extracting knowledge.
 

@@ -3,7 +3,7 @@ categories:
 - knowledge-engineering-root
 created: '2026-07-18T05:16:48.180082+00:00'
 id: software-design-multipliers
-modified: '2026-07-18T05:56:21.791912+00:00'
+modified: '2026-09-15T12:11:48.840523+00:00'
 tags:
 - software-design
 - multipliers
@@ -12,9 +12,15 @@ title: Software Design Multipliers
 type: category
 ---
 
+# Software Design Multipliers
+
 <!-- human:start -->
 This category explores "multiplier" concepts in software design. These are foundational mechanisms that, once implemented, make a dozen other notoriously difficult problems trivial to solve. They provide extreme leverage in software architecture.
 <!-- human:end -->
+
+> [!WARNING]
+> **Architectural Multipliers vs. Over-Engineering**:
+> Multipliers provide massive architectural leverage, but applying them prematurely is a critical failure mode. Before reaching for a multiplier, consult [[ai-ponytail-strategy|AI Guide: Ponytail Minimalist Development Strategy]]. Always start at Rung 1 of the ladder (YAGNI, stdlib-first, simple direct code). Only adopt a multiplier when domain requirements strictly demand it, and implement the chosen multiplier with the fewest files and lines possible.
 
 ## Articles in This Category
 
